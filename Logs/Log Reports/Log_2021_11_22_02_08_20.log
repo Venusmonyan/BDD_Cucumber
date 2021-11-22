@@ -1,0 +1,4 @@
+2021-11-22 08:02:25,956  INFO [main] stepDefinition_HomePage:31 - Successfully Opened the URL:"https://www.bigsmall.in/
+ 2021-11-22 08:02:27,162  INFO [main] stepDefinition_HomePage:20 - Successfully clicked "Sign In" Button
+ 2021-11-22 08:02:27,300  INFO [main] stepDefinition_HomePage:15 - Successfully Entered the Text: "" in the Email Field
+ 
